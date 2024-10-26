@@ -1,4 +1,4 @@
 # Network-simulations
 
 
-Simple packet tracer simulations using Cisco Packet tracer
+Network simulations using Cisco Packet tracer
